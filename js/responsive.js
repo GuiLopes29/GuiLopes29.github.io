@@ -7,5 +7,4 @@ function writer(element) {
 }
 
 const myName = document.querySelector(".myName");
-console.log(myName)
 writer(myName)
