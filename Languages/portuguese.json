@@ -1,0 +1,34 @@
+{
+  "nav-home": "Início",
+  "nav-about": "Sobre mim",
+  "nav-projects": "Projetos",
+  "nav-skills": "Habilidades",
+
+  "intro-title": "Olá, me chamo",
+  "intro-name": "Guilherme Lopes",
+  "intro-desc": "Desenvolvedor FullStack Pl.",
+
+  "about-title": "Sobre mim",
+  "about-desc": "Meu nome é Guilherme Lopes, tenho 22 anos e sou desenvolvedor FullStack Pl. Tenho experiência com desenvolvimento de aplicações web e desktop, utilizando Node.Js, Angular, C#, React, entre outras tecnologias. Sou apaixonado por tecnologia e por resolver problemas, e isso me motiva a aprender cada vez mais e a me aperfeiçoar cada vez mais.",
+
+  "Projects-title": "Projetos",
+
+  "skills-title": "Habilidades",
+  "skills-info": "/* Passe o mouse por cima de alguma habilidade para ler a descrição */",
+
+  "skills-html": "HTML",
+  "skills-html-desc": "É uma linguagem de marcação utilizada na construção de páginas.",
+
+  "skills-css": "CSS",
+  "skills-css-desc": "É um mecanismo para adicionar estilo a uma pagina.",
+
+  "skills-js": "JavaScript",
+  "skills-js-desc": "É uma linguagem de programação. Juntamente com HTML e CSS, é uma das três principais tecnologias.",
+
+  "skills-react": "ReactJS",
+  "skills-react-desc": "É uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.",
+
+  "skills-angular": "Angular",
+  "skills-angular-desc": "É um framework TypeScript de código aberto mantido por Google, que tem como objetivo permitir o desenvolvimento de aplicações web de uma forma mais rápida."
+
+}
