@@ -83,10 +83,10 @@
 }
 
 .presentation {
+    color: #009400;
     width: 100%;
     font-size: 1.5rem;
     font-weight: 600;
-    color: #000000;
 }
 
 .profile_logo {
@@ -97,7 +97,7 @@
 .myName {
     display: inline;
     font-size: 3rem;
-    color: #008dce;
+    color: #00F000;
 }
 
 .myName::after {
