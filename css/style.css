@@ -55,11 +55,11 @@
 }
 
 #navbar a:hover {
-    color: #000013;
+    color: #ffffff;
 }
 
 #navbar a:visited a:active a:link {
-    color: #FFF;
+    color: #000000;
 }
 
 /*#endregion navbar*/
@@ -72,7 +72,6 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     height: 100vh;
-    width: 100%;
     display: flex;
     justify-content: center;
 }
@@ -83,7 +82,7 @@
 }
 
 .presentation {
-    color: #009400;
+    color: #00f800;
     width: 100%;
     font-size: 1.5rem;
     font-weight: 600;
@@ -97,7 +96,6 @@
 .myName {
     display: inline;
     font-size: 3rem;
-    color: #00F000;
 }
 
 .myName::after {

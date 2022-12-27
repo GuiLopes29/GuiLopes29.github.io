@@ -5,11 +5,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Guilherme Lopes</title>
-  <!-- <script src="https://kit.fontawesome.com/c531f14df2.js" crossorigin="anonymous"></script> -->
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" type="text/css" href="css/style.css">
   <link rel="icon" type="image/x-icon" href="img/logos/lopes-icon.ico">
 </head>
-<html lang="pt-br">
 
 <body>
   <nav id="navbar">
@@ -17,10 +15,10 @@
       <div><img src="img/logos/logo.png" alt="logo" id="logo"></div>
       <div>
         <ul>
-          <li><a href="#home">Inicio</a></li>
-          <li><a href="#about">Sobre mim</a></li>
-          <li><a href="#portifolium">Projetos</a></li>
-          <li><a href="#contact">Habilidades</a></li>
+          <li><a lang-key="nav-home" href="#home">Inicio</a></li>
+          <li><a lang-key="nav-about" href="#about">Sobre mim</a></li>
+          <li><a lang-key="nav-projects" href="#portifolium">Projetos</a></li>
+          <li><a lang-key="nav-skills" href="#contact">Habilidades</a></li>
         </ul>
       </div>
     </div>
@@ -30,10 +28,9 @@
       <div class="my_info">
         <img class="profile_logo" src="img/logos/logo_guilopes.gif" alt="">
         <div class="presentation">
-          <p>Olá, me chamo</p>
+          <p lang-key="intro-title">Olá, me chamo</p>
           <span class="myName">Guilherme Lopes</span>
-          <br>
-          Desenvolvedor FullStack Pl.</p>
+          <p lang-key="intro-desc">Desenvolvedor FullStack Pl.</p>
         </div>
       </div>
     </section>
@@ -43,6 +40,7 @@
   <footer id="skills">
   </footer>
   <script type="text/javascript" src="js/responsive.js"></script>
+  <script type="text/javascript" src="js/translation.js"></script>
 </body>
 
 </html>
