@@ -8,5 +8,28 @@
   "intro-name": "Guilherme Lopes",
   "intro-desc": "FullStack Developer PL.",
 
-  "about-title": "About me"
+  "about-title": "About me",
+  "about-desc": "My name is Guilherme Pereira Lopes, I'm 22 years old and I'm a FullStack Pl developer. I started in 2016, when I started studying programming. Since then, I've been improving myself more and more, and today I'm a professional with more than 3 years of experience. I've knowledge in development of web and desktop applications, using Node.Js, Angular, C#, React, among other technologies. I am passionate about technology and solving problems, and this motivates me to learn more and improve myself day by day. I'm currently studying React Native, where I'm developing an app for Android and IOS to solve some issues I've in my daily.",
+
+  "projects-title": "Projects",
+
+  "skills-title": "Skills",
+  "skills-info": "/* Passe o mouse por cima de alguma habilidade para ler a descrição */",
+
+  "skills-html": "HTML",
+  "skills-html-desc": "É uma linguagem de marcação utilizada na construção de páginas.",
+
+  "skills-css": "CSS",
+  "skills-css-desc": "É um mecanismo para adicionar estilo a uma pagina.",
+
+  "skills-js": "JavaScript",
+  "skills-js-desc": "É uma linguagem de programação. Juntamente com HTML e CSS, é uma das três principais tecnologias.",
+
+  "skills-react": "ReactJS",
+  "skills-react-desc": "É uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.",
+
+  "skills-angular": "Angular",
+  "skills-angular-desc": "É um framework TypeScript de código aberto mantido por Google, que tem como objetivo permitir o desenvolvimento de aplicações web de uma forma mais rápida.",
+
+  "footer": "All rights reserved 2022 © Developed by Guilherme Lopes"
 }
