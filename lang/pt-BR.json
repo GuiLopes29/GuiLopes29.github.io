@@ -9,9 +9,9 @@
   "intro-desc": "Desenvolvedor FullStack Pl.",
 
   "about-title": "Sobre mim",
-  "about-desc": "Meu nome é Guilherme Lopes, tenho 22 anos e sou desenvolvedor FullStack Pl. Tenho experiência com desenvolvimento de aplicações web e desktop, utilizando Node.Js, Angular, C#, React, entre outras tecnologias. Sou apaixonado por tecnologia e por resolver problemas, e isso me motiva a aprender cada vez mais e a me aperfeiçoar cada vez mais.",
+  "about-desc": "Meu nome é Guilherme Pereira Lopes, tenho 22 anos e sou desenvolvedor FullStack Pl. Iniciei na área em 2016, quando comecei a estudar programação. Desde então, venho me aperfeiçoando cada vez mais, e hoje sou um profissional com mais de 3 anos de experiência. Conhecimento no desenvolvimento de aplicações web e desktop, utilizando Node.Js, Angular, C#, React, entre outras tecnologias. Sou apaixonado por tecnologia e por resolver problemas, e isso me motiva a aprender cada vez mais e a me aperfeiçoar cada vez mais. Atualmente estou estudando React Native, onde estou desenvolvendo um aplicativo para Android e IOS para resolver alguns problemas que tenho no meu cotidiano.",
 
-  "Projects-title": "Projetos",
+  "projects-title": "Projetos",
 
   "skills-title": "Habilidades",
   "skills-info": "/* Passe o mouse por cima de alguma habilidade para ler a descrição */",
@@ -29,6 +29,7 @@
   "skills-react-desc": "É uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.",
 
   "skills-angular": "Angular",
-  "skills-angular-desc": "É um framework TypeScript de código aberto mantido por Google, que tem como objetivo permitir o desenvolvimento de aplicações web de uma forma mais rápida."
+  "skills-angular-desc": "É um framework TypeScript de código aberto mantido por Google, que tem como objetivo permitir o desenvolvimento de aplicações web de uma forma mais rápida.",
 
+  "footer": "Todos os direitos reservados 2022 © Desenvolvido por Guilherme Lopes"
 }
